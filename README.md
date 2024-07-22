@@ -3,8 +3,9 @@
 
 The major aim of thie project is to gain insight into a pizza sales data.
 
-![Screenshot 2024-07-22 141119](https://github.com/user-attachments/assets/424d835c-d546-4068-b3c2-056d6dec32b6)
-For Full Code see my repository SQL code file.
+![Screenshot 2024-07-22 141628](https://github.com/user-attachments/assets/7233b7e6-2a93-4c68-a47d-505499c868c2)
+
+## For Full Code see my repository SQL code file.
 
 # Business Questions To Answer
 ## Basic:
